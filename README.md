@@ -57,7 +57,7 @@ There is also a full agent guide at https://make.fun/skill.md for people working
 
 ### 4. Build your entry
 
-An entry is a public GitHub repository at one commit, together with transcripts of the AI sessions that built it. Read RULES.txt and follow the kit's instructions for the bounty. A session that began before that bounty opened can't be entered. Put an OSI-approved license in the repository; this guide uses MIT.
+An entry is a public GitHub repository at one commit, together with transcripts of the AI sessions that built it. Read RULES.txt and follow the kit's instructions for the bounty. You can't enter a session if it began before the bounty opened. Put an OSI-approved license in the repository; this guide uses MIT.
 
 ### 5. Submit it
 
@@ -76,6 +76,12 @@ The bounty reward is locked in an on-chain escrow on Solana when the bounty open
 Your profile's referral link can bring people to make.fun. For this entry, mine is https://make.fun/r/d4q39cjn and the code is **d4q39cjn**. A visitor's first touch binds for 60 days. If they create an account while that code is held, the signup is credited to its owner.
 
 Only real, active human signups count. Bots, idle accounts, and your own account as the referrer don't count. For this bounty, more verified human signups through the entry's referral link mean a higher score; the listed places determine the reward.
+
+A few ways to share without making it feel like a pitch:
+- Try a community where people already discuss building projects, and check that referral links are welcome there.
+- Say plainly that it’s your referral link, then give a one-line reason you think the person or group might find make.fun useful.
+- Share it once with people who are likely to be interested, and be ready to answer questions.
+- Skip unrelated comment threads, repeated unsolicited messages, and any promise about what someone will earn.
 
 ## Tips from entering this bounty
 
@@ -120,6 +126,13 @@ Yes. Each bounty is its own entry, with its own repository and its own transcrip
 - Prize escrow source code — https://github.com/makedotfun/prize-escrow
 
 make.fun is not makefun.ai, the makefun Python library, or the old Make Fun launchpad on Base.
+
+## Before you share
+
+- [ ] Your make.fun account is ready, with GitHub and a Solana wallet linked.
+- [ ] You copied your referral link from your profile and confirmed it is yours.
+- [ ] You are posting somewhere referral links are welcome, with a clear reason for sharing.
+- [ ] You plan one genuine post for interested people, not a mass blast.
 
 ---
 
